@@ -1,0 +1,30 @@
+.mobiles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 1rem;
+    border: 0.5rem solid white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    background-color: grey;
+}
+
+.mobileImg {
+    margin-top: 0.3rem;
+    width: 15rem;
+    border: 0.5rem solid black;
+    border-radius: 1rem;
+}
+
+.backBtn {
+    
+    border-radius: 1rem;
+    border: 0.1rem solid white;
+    margin-top: 3cm;
+    margin-bottom: 3rem;
+    background-color: grey;
+    padding: 0.5rem;   
+}
